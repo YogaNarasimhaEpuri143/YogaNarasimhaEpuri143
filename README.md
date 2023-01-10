@@ -4,8 +4,8 @@
 <h3 align="center">A passionate in AI/ML Techs from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YogaNarasimhaEpuri&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-<p align="left"> <a href="https://twitter.com/yoganarasimha" target="blank"><img src="https://img.shields.io/twitter/follow/yoganarasimha?logo=twitter&style=for-the-badge" alt="yoganarasimha" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YogaNarasimhaEpuri&label=Profile%20views&color=0e75b6&style=flat" alt="YogaNarasimha" /> </p>
+<p align="left"> <a href="https://twitter.com/yoga_epuri" target="blank"><img src="https://img.shields.io/twitter/follow/yoga_epuri?logo=twitter&style=for-the-badge" alt="yoganarasimha" /></a> </p>
 
 - 🌱 I’m currently learning more about AI/ML
 - 💬 Ask me about anything, ML, AI, CV ...
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yoga-narasimha-epuri-05a267261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yoga-narasimha-epuri-05a267261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a> <a href="https://twitter.com/yoga_epuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoga_epuri" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -35,17 +35,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebse
 <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YogaNarasimhaEpuri143&show_icons=true&locale=en&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YogaNarasimhaEpuri143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p> 
-<br>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=YogaNarasimhaEpuri143&&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p>
+
+
 <div></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YogaNarasimhaEpuri143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p> 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YogaNarasimhaEpuri143&&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p>
-<br>
-<br>
 
