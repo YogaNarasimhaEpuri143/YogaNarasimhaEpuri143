@@ -36,18 +36,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebse
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YogaNarasimhaEpuri143&show_icons=true&locale=en&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p>
 <br>
-<p> 
-      '
-</p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YogaNarasimhaEpuri143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p> 
+      
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YogaNarasimhaEpuri143&&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p>
 <br>
-<p> 
-      '
-</p>
 
 
-<div></div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YogaNarasimhaEpuri143&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="YogaNarasimhaEpuri143" /></p> 
 
 
